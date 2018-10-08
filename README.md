@@ -1,9 +1,9 @@
 # iosd-frontend
 IOSD Website - <a>www.iosd.tech</a>
 
-This is the Website for International Organization of Softwware Developers.
+This is the Website for International Organization of Software Developers.
 
-A Bootstrap-Theme based site.
+It is a Bootstrap-Theme based site.
 
 The site is divided into different sections which can be used accordingly.
 
